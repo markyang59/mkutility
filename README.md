@@ -1,6 +1,6 @@
 #mkutility 
 Utility library for Microsoft Visual Stuio<br>
-Mark Yang<br>  
+Mark Yang<br>
 (mkyang@mediamtd.com)<br>
 2016.7.19
 
