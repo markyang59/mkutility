@@ -22,21 +22,18 @@ This library worked on Microsoft Windows OS with Visual Studio 2015
 - D:\VSProjects\LIB\wxWidgets
 - modify include/lib path based on your enviroment
 
-
 ##File description
-
-
-* [mkado] - ADO SQLDB access
-* [mkbitset] - High performance bit storage 
-* [mkbuffer] - General buffer for easy use
-* [mkdib] - win32 DIB (Device Independant Bitmap) wrapper
-* [mkffmpeg] - FFMPEG wrapper library (requre FFMPEG installed)
-* [mkgc] - Garbage Collector for C++ (custom made)
-* [mkmap] - Thread Safe map
-* [mkqueue] - Thread Safe queue
-* [mksecurity] - License Check library
-* [mksha1] - SHA1 enc/dec
-* [mkstreambuffer] - real-time buffer for streaming data
-* [mkutil] - misc tools
-* [mkvector] - Thread Safe vector
-* [mkwasapi] - Windows Sound API wrapper (WASAPI)
+- mkado - ADO SQLDB access
+- mkbitset - High performance bit storage 
+- mkbuffer - General buffer for easy use
+- mkdib - win32 DIB (Device Independant Bitmap) wrapper
+- mkffmpeg - FFMPEG wrapper library (requre FFMPEG installed)
+- mkgc - Garbage Collector for C++ (custom made)
+- mkmap - Thread Safe map
+- mkqueue - Thread Safe queue
+- mksecurity - License Check library
+- mksha1 - SHA1 enc/dec
+- mkstreambuffer - real-time buffer for streaming data
+- mkutil - misc tools
+- mkvector - Thread Safe vector
+- mkwasapi - Windows Sound API wrapper (WASAPI)
