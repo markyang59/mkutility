@@ -10,20 +10,22 @@ This library worked on Microsoft Windows OS with Visual Studio 2015
 
 ##Required library
 ###Boost
-   - Get boost library at below link 
-   - [Boost](https://github.com/boostorg/boost)
-   - Install boost at below path or modify vs dir setting based on your env
-   - D:\VSProjects\LIB\boost
+- Get boost library at below link 
+- [Boost](https://github.com/boostorg/boost)
+- Install boost at below path or modify vs dir setting based on your env
+- D:\VSProjects\LIB\boost
 
 ###wxWidget
-   - Get wxWidget library at below link
-   - [wxWidget](https://github.com/wxWidgets/wxWidgets)
-   - Install boost at below path or modify
-   - D:\VSProjects\LIB\wxWidgets
-   - modify include/lib path based on your enviroment
+- Get wxWidget library at below link
+- [wxWidget](https://github.com/wxWidgets/wxWidgets)
+- Install boost at below path or modify
+- D:\VSProjects\LIB\wxWidgets
+- modify include/lib path based on your enviroment
 
 
 ##File description
+
+
 * [mkado] - ADO SQLDB access
 * [mkbitset] - High performance bit storage 
 * [mkbuffer] - General buffer for easy use
