@@ -1,5 +1,5 @@
 #mkutility 
-Utility library for Microsoft Visual Stuio<br>
+Utility library for Microsoft Visual Studio<br>
 Mark Yang<br>
 (mkyang@mediamtd.com)<br>
 2016.7.19
